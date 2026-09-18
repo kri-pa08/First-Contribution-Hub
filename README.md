@@ -1,6 +1,4 @@
 # First-Contribution-Hub
-A beginner-friendly open-source repository for making your first GitHub contribution.
-# First Contribution Hub
 
 Welcome to First Contribution Hub!
 
