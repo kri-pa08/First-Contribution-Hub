@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thank you for wanting to contribute to First Contribution Hub! 🌱
+Thank you for wanting to contribute to First Contribution Hub! 
 
 This repository is designed to help beginners make their first open-source contribution.
 
@@ -28,4 +28,4 @@ This repository is designed to help beginners make their first open-source contr
 
 If you are stuck, feel free to ask questions in the issue discussion.
 
-Happy contributing! 🚀
+Happy contributing! 
